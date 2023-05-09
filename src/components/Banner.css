@@ -1,0 +1,15 @@
+.banner{
+    height: 650px;
+    object-fit: contain;
+}
+.banner-content{
+    padding-top: 450px;
+    margin-left: 50px;
+}
+.banner-title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.banner-overview{
+    line-height: 30px;
+}
